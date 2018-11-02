@@ -7,6 +7,7 @@ Mostly used for practicing and learning new languages, but for now it is mainly 
 * Problem Solving
     * [Implementation](#implementation)
     * [Strings](#strings)
+    * [Sort](#sort)
 
 # Implementation
 
@@ -19,3 +20,9 @@ Challenge|Solution
 Challenge|Solution
 ---------|--------
 [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|[JavaScript](ProblemSolving/Strings/camelCase.js)
+
+# Sort
+
+Challenge|Solution
+---------|--------
+[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)|[JavaScript](ProblemSolving/Sort/countingSort1.js)
