@@ -11,4 +11,4 @@ Mostly used for practicing and learning new languages, but for now it is mainly 
 
 Challenge|Solution
 ---------|--------
-[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|
+[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[JavaScript](https://github.com/SereicikasTomas/HackerRank_MySolutions/blob/master/Problem%20Solving/Implementation/gradingStudents.js)
