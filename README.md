@@ -14,7 +14,7 @@ Mostly used for practicing and learning new languages, but for now it is mainly 
 Challenge|Solution
 ---------|--------
 [Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[JavaScript](ProblemSolving/Implementation/gradingStudents.js)
-[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[JavaScript](ProblemSolving/Implementation/gradingStudents.js)
+[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[JavaScript](ProblemSolving/Implementation/appleAndOrange.js)
 
 # Strings 
 
