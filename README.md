@@ -16,6 +16,8 @@ Challenge|Solution
 [Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[JavaScript](ProblemSolving/Implementation/gradingStudents.js)
 [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[JavaScript](ProblemSolving/Implementation/appleAndOrange.js)
 [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)|[JavaScript](ProblemSolving/Implementation/kangaroo.js)
+[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|[JavaScript](ProblemSolving/Implementation/breakingTheRecords.js)
+
 
 # Strings 
 
