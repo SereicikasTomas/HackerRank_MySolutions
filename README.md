@@ -18,6 +18,7 @@ Challenge|Solution
 [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)|[JavaScript](ProblemSolving/Implementation/kangaroo.js)
 [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|[JavaScript](ProblemSolving/Implementation/breakingTheRecords.js)
 [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[JavaScript](ProblemSolving/Implementation/birthdayChocolate.js)
+[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|[JavaScript](ProblemSolving/Implementation/divisibleSumPairs.js)
 
 # Strings 
 
