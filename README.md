@@ -20,6 +20,7 @@ Challenge|Solution
 [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[JavaScript](ProblemSolving/Implementation/birthdayChocolate.js)
 [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|[JavaScript](ProblemSolving/Implementation/divisibleSumPairs.js)
 [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|[JavaScript](ProblemSolving/Implementation/migratoryBirds.js)
+[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)|[JavaScript](ProblemSolving/Implementation/bonAppetit.js)
 
 # Strings 
 
