@@ -19,6 +19,7 @@ Challenge|Solution
 [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|[JavaScript](ProblemSolving/Implementation/breakingTheRecords.js)
 [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[JavaScript](ProblemSolving/Implementation/birthdayChocolate.js)
 [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|[JavaScript](ProblemSolving/Implementation/divisibleSumPairs.js)
+[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|[JavaScript](ProblemSolving/Implementation/migratoryBirds.js)
 
 # Strings 
 
