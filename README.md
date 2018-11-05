@@ -4,12 +4,9 @@ I will be posting my solutions to various HackerRank problems in this repository
 
 Mostly used for practicing and learning new languages, but for now it is mainly JavaScript.
 
-* Problem Solving
-    * [Implementation](#implementation)
-    * [Strings](#strings)
-    * [Sort](#sort)
+* [Problem Solving](#problem_solving)
 
-# Implementation
+# Problem Solving
 
 Challenge|Solution|Challenge|Solution|Challenge|Solution
 ---------|--------|---------|--------|---------|--------
@@ -23,19 +20,5 @@ Challenge|Solution|Challenge|Solution|Challenge|Solution
 [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)|[JavaScript](ProblemSolving/Implementation/jumpingOnTheCloudsRevisited.js)|[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)|[JavaScript](ProblemSolving/Implementation/findDigits.js)|[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|[JavaScript](ProblemSolving/Implementation/libraryFine.js)
 [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)|[JavaScript](ProblemSolving/Implementation/cutTheSticks.js)|[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|[JavaScript](ProblemSolving/Implementation/repeatedString.js)|[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|[JavaScript](ProblemSolving/Implementation/jumpingOnTheClouds.js)
 [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|[JavaScript](ProblemSolving/Implementation/equalizeTheArray.js)|[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)|[JavaScript](ProblemSolving/Implementation/minimumDistances.js)|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|[JavaScript](ProblemSolving/Implementation/chocolateFeast.js)
-
-
-# Strings 
-
-Challenge|Solution
----------|--------
-[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|[JavaScript](ProblemSolving/Strings/camelCase.js)
-[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|[JavaScript](ProblemSolving/Strings/strongPassword.js)
-[Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem)|[JavaScript](ProblemSolving/Strings/marsExploration.js)
-[Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)|[JavaScript](ProblemSolving/Strings/pangrams.js)
-
-# Sort
-
-Challenge|Solution
----------|--------
-[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)|[JavaScript](ProblemSolving/Sort/countingSort1.js)
+[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)|[JavaScript](ProblemSolving/Implementation/countingSort1.js)|[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|[JavaScript](ProblemSolving/Implementation/camelCase.js)|[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|[JavaScript](ProblemSolving/Implementation/strongPassword.js)
+[Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem)|[JavaScript](ProblemSolving/Implementation/marsExploration.js)|[Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)|[JavaScript](ProblemSolving/Implementation/pangrams.js)
