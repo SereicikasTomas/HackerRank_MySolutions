@@ -30,6 +30,9 @@ Challenge|Solution|Challenge|Solution|Challenge|Solution
 Challenge|Solution
 ---------|--------
 [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|[JavaScript](ProblemSolving/Strings/camelCase.js)
+[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|[JavaScript](ProblemSolving/Strings/strongPassword.js)
+[Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem)|[JavaScript](ProblemSolving/Strings/marsExploration.js)
+[Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)|[JavaScript](ProblemSolving/Strings/pangrams.js)
 
 # Sort
 
