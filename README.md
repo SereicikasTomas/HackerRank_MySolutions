@@ -5,6 +5,7 @@ I will be posting my solutions to various HackerRank problems in this repository
 Mostly used for practicing and learning new languages, but for now it is mainly JavaScript.
 
 * [Problem Solving](#problem-solving)
+* [Interview Preparation Kit](#Interview-Preparation-Kit)
 
 # Problem Solving
 
@@ -24,3 +25,9 @@ Challenge|Solution|Challenge|Solution|Challenge|Solution
 [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|[JavaScript](ProblemSolving/equalizeTheArray.js)|[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)|[JavaScript](ProblemSolving/minimumDistances.js)|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|[JavaScript](ProblemSolving/chocolateFeast.js)
 [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)|[JavaScript](ProblemSolving/countingSort1.js)|[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|[JavaScript](ProblemSolving/camelCase.js)|[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|[JavaScript](ProblemSolving/strongPassword.js)
 [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem)|[JavaScript](ProblemSolving/marsExploration.js)|[Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)|[JavaScript](ProblemSolving/pangrams.js)|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|[JavaScript](ProblemSolving/timeConversion.js)
+
+# Interview Preparation Kit
+
+Challenge|Solution
+---------|--------
+[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|[JavaScript](InterviewPreparationKit/2dArrayDS.js)
