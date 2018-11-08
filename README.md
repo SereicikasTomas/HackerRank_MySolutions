@@ -25,6 +25,7 @@ Challenge|Solution|Challenge|Solution|Challenge|Solution
 [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|[JavaScript](ProblemSolving/equalizeTheArray.js)|[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)|[JavaScript](ProblemSolving/minimumDistances.js)|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|[JavaScript](ProblemSolving/chocolateFeast.js)
 [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)|[JavaScript](ProblemSolving/countingSort1.js)|[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|[JavaScript](ProblemSolving/camelCase.js)|[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|[JavaScript](ProblemSolving/strongPassword.js)
 [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem)|[JavaScript](ProblemSolving/marsExploration.js)|[Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)|[JavaScript](ProblemSolving/pangrams.js)|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|[JavaScript](ProblemSolving/timeConversion.js)
+[Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem)|[JavaScript](ProblemSolving/fairRations.js)
 
 # Interview Preparation Kit
 
